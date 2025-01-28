@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1738041180764
+current_stage: None
+description: ''
+last_updated_timestamp: 1738041180764
+name: Gradient_Boosting
+run_id: ca7bd24d0dea4cca8c1da381a754cd3e
+run_link: ''
+source: file:///c:/Users/saipr/Targeted%20Marketing/mlruns/198574841015505688/ca7bd24d0dea4cca8c1da381a754cd3e/artifacts/GradientBoosting_best_model
+status: READY
+status_message: null
+storage_location: file:///c:/Users/saipr/Targeted%20Marketing/mlruns/198574841015505688/ca7bd24d0dea4cca8c1da381a754cd3e/artifacts/GradientBoosting_best_model
+user_id: null
+version: 1

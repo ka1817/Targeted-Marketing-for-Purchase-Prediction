@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/saipr/Targeted%20Marketing/mlruns/198574841015505688/f199e77bb7d04d2cab31004a6ad19b93/artifacts
+deleted_time: 1738040950875
+end_time: 1738040309959
+entry_point_name: ''
+experiment_id: '198574841015505688'
+lifecycle_stage: deleted
+run_id: f199e77bb7d04d2cab31004a6ad19b93
+run_name: redolent-quail-685
+run_uuid: f199e77bb7d04d2cab31004a6ad19b93
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738040271795
+status: 3
+tags: []
+user_id: saipr

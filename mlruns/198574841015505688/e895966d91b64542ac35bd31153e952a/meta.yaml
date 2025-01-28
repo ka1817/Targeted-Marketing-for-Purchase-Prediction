@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/saipr/Targeted%20Marketing/mlruns/198574841015505688/e895966d91b64542ac35bd31153e952a/artifacts
+end_time: 1738040710343
+entry_point_name: ''
+experiment_id: '198574841015505688'
+lifecycle_stage: active
+run_id: e895966d91b64542ac35bd31153e952a
+run_name: clumsy-trout-661
+run_uuid: e895966d91b64542ac35bd31153e952a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738040650307
+status: 3
+tags: []
+user_id: saipr

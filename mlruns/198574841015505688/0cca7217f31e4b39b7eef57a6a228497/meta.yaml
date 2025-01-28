@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/saipr/Targeted%20Marketing/mlruns/198574841015505688/0cca7217f31e4b39b7eef57a6a228497/artifacts
+deleted_time: 1738040950870
+end_time: 1738040466834
+entry_point_name: ''
+experiment_id: '198574841015505688'
+lifecycle_stage: deleted
+run_id: 0cca7217f31e4b39b7eef57a6a228497
+run_name: caring-finch-327
+run_uuid: 0cca7217f31e4b39b7eef57a6a228497
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738040310000
+status: 3
+tags: []
+user_id: saipr

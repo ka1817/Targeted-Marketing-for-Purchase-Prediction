@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/saipr/Targeted%20Marketing/mlruns/198574841015505688/db3ed879aee047cf91e38aac8fffd7fb/artifacts
+end_time: 1738042053096
+entry_point_name: ''
+experiment_id: '198574841015505688'
+lifecycle_stage: active
+run_id: db3ed879aee047cf91e38aac8fffd7fb
+run_name: resilient-shrike-419
+run_uuid: db3ed879aee047cf91e38aac8fffd7fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738042046053
+status: 4
+tags: []
+user_id: saipr

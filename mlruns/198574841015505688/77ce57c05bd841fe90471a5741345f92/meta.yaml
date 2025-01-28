@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/saipr/Targeted%20Marketing/mlruns/198574841015505688/77ce57c05bd841fe90471a5741345f92/artifacts
+end_time: 1738043348394
+entry_point_name: ''
+experiment_id: '198574841015505688'
+lifecycle_stage: active
+run_id: 77ce57c05bd841fe90471a5741345f92
+run_name: rogue-snake-728
+run_uuid: 77ce57c05bd841fe90471a5741345f92
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738043275514
+status: 3
+tags: []
+user_id: saipr

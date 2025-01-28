@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/saipr/Targeted%20Marketing/mlruns/198574841015505688/baa41903e3984fcba6561eedbd909f55/artifacts
+end_time: 1738043388543
+entry_point_name: ''
+experiment_id: '198574841015505688'
+lifecycle_stage: active
+run_id: baa41903e3984fcba6561eedbd909f55
+run_name: debonair-sponge-856
+run_uuid: baa41903e3984fcba6561eedbd909f55
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738043348416
+status: 3
+tags: []
+user_id: saipr

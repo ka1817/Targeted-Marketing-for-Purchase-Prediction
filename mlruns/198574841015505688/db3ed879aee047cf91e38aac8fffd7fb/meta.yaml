@@ -1,8 +1,9 @@
 artifact_uri: file:///c:/Users/saipr/Targeted%20Marketing/mlruns/198574841015505688/db3ed879aee047cf91e38aac8fffd7fb/artifacts
+deleted_time: 1738044378825
 end_time: 1738042053096
 entry_point_name: ''
 experiment_id: '198574841015505688'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: db3ed879aee047cf91e38aac8fffd7fb
 run_name: resilient-shrike-419
 run_uuid: db3ed879aee047cf91e38aac8fffd7fb

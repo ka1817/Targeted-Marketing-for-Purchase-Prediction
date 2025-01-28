@@ -1,8 +1,9 @@
 artifact_uri: file:///c:/Users/saipr/Targeted%20Marketing/mlruns/198574841015505688/4e3008fbc5864c9882f78ee45cd290f8/artifacts
+deleted_time: 1738044378813
 end_time: 1738041561898
 entry_point_name: ''
 experiment_id: '198574841015505688'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 4e3008fbc5864c9882f78ee45cd290f8
 run_name: sassy-bee-805
 run_uuid: 4e3008fbc5864c9882f78ee45cd290f8

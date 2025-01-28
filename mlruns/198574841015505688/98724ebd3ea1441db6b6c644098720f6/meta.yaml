@@ -1,8 +1,9 @@
 artifact_uri: file:///c:/Users/saipr/Targeted%20Marketing/mlruns/198574841015505688/98724ebd3ea1441db6b6c644098720f6/artifacts
+deleted_time: 1738044378841
 end_time: 1738042006354
 entry_point_name: ''
 experiment_id: '198574841015505688'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 98724ebd3ea1441db6b6c644098720f6
 run_name: fun-ray-221
 run_uuid: 98724ebd3ea1441db6b6c644098720f6

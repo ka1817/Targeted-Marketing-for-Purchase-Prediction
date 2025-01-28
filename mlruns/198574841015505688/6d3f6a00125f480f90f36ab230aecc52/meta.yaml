@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/saipr/Targeted%20Marketing/mlruns/198574841015505688/6d3f6a00125f480f90f36ab230aecc52/artifacts
+end_time: 1738043559580
+entry_point_name: ''
+experiment_id: '198574841015505688'
+lifecycle_stage: active
+run_id: 6d3f6a00125f480f90f36ab230aecc52
+run_name: rogue-smelt-587
+run_uuid: 6d3f6a00125f480f90f36ab230aecc52
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738043388560
+status: 3
+tags: []
+user_id: saipr
